@@ -49,14 +49,16 @@ python3 main.py
 Contoh tampilan:
 
 ```
-======================================================================
-  SCRAPER DATA SEKOLAH INDONESIA (API)
-  https://api-sekolah-indonesia.vercel.app/sekolah
-======================================================================
+============================================================
+  SCRAPER DATA SEKOLAH SELURUH INDONESIA v2.0
+  Dengan Resume Capability
+============================================================
+Memulai scraping data sekolah Indonesia...
 
-Proses scraping akan dimulai...
-Data akan disimpan di: data_sekolah_indonesia.csv
-Checkpoint: scraping_checkpoint.json
+Total data yang akan di-scrape: 215,373 sekolah
+Total halaman: 2,154 halaman
+Mulai dari halaman: 1
+Scraping Progress:   3%|█▊                                                          | 65/2154 [01:08<38:24,  1.10s/it, Data=6,500/215,373, Page=65/2154]
 ```
 
 ## Catatan
