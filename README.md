@@ -58,12 +58,14 @@ Memulai scraping data sekolah Indonesia...
 Total data yang akan di-scrape: 215,373 sekolah
 Total halaman: 2,154 halaman
 Mulai dari halaman: 1
-Scraping Progress:   3%|█▊                                                          | 65/2154 [01:08<38:24,  1.10s/it, Data=6,500/215,373, Page=65/2154]
+Scraping Progress:   3%|█                                                          | 65/2154 [01:08<38:24,  1.10s/it, Data=6,500/215,373, Page=65/2154]
 ```
 
 ## Catatan
 
-- Data yang diambil bersifat publik dan tersedia melalui API resmi.
+- Data yang diambil bersifat publik dan tersedia melalui API [https://api-sekolah-indonesia.vercel.app/sekolah](https://api-sekolah-indonesia.vercel.app/sekolah).
 - Jika proses scraping terhenti, jalankan ulang skrip untuk melanjutkan dari checkpoint terakhir.
 - Pastikan koneksi internet stabil selama proses scraping.
 - Gunakan proyek ini sesuai dengan etika dan ketentuan penggunaan data.
+- Data pada API ini terakhir update pada Juli 2021.
+- Jika ingin data terbaru, silakan kunjungi [Scraping Dikdasmen (Last Update)](https://github.com/zulfikriyahya/scraping-dikdasmen).
